@@ -22,7 +22,7 @@ pod 'AcquiredHppSDK'
 
 ## Author
 
-lxp916, lxp916@hotmail.com
+Acquired, support@acquired.com
 
 ## License
 
