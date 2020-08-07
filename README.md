@@ -18,15 +18,16 @@
 AcquiredHppSDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-```ruby
-pod 'AcquiredHppSDK'
-```
-Or
 ```
 target 'AcquiredSample' do
-	pod 'AcquiredHppSDK', :git => 'https://github.com/lxp916/AcquiredHppSDK.git', :tag =>'1.1.2'
+	pod 'AcquiredHppSDK', :git => 'https://github.com/AcquiredSupport/AcquiredHppSDK.git', :branch =>'master'
 end
 //AcquiredSample is your original xcode peoject name
+```
+
+Or
+```ruby
+pod 'AcquiredHppSDK'
 ```
 ## Using the HPP Library
 
