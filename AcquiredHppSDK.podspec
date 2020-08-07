@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
                         This is acquired hpp sdk.
                        DESC
 
-  s.homepage         = 'https://github.com/lxp916/AcquiredHppSDK'
+  s.homepage         = 'https://github.com/AcquiredSupport/AcquiredHppSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Acquired' => 'support@acquired.com' }
-  s.source           = { :git => 'https://github.com/lxp916/AcquiredHppSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/AcquiredSupport/AcquiredHppSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.swift_version = '4.0'
   s.ios.deployment_target = '9.0'
