@@ -1,7 +1,7 @@
 {
   "name": "AcquiredHppSDK",
-  "version": "0.1.0",
-  "summary": "A short description of AcquiredHppSDK.",
+  "version": "0.1.1",
+  "summary": "Acquired Hpp SDK.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/lxp916/AcquiredHppSDK",
   "license": {
@@ -9,11 +9,11 @@
     "file": "LICENSE"
   },
   "authors": {
-    "lxp916": "lxp916@hotmail.com"
+    "Acquired": "support@acquired.com"
   },
   "source": {
     "git": "https://github.com/lxp916/AcquiredHppSDK.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "swift_versions": "4.0",
   "platforms": {

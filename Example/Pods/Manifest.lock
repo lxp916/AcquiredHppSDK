@@ -1,5 +1,5 @@
 PODS:
-  - AcquiredHppSDK (0.1.0)
+  - AcquiredHppSDK (0.1.1)
 
 DEPENDENCIES:
   - AcquiredHppSDK (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AcquiredHppSDK: 4f31e41b2e464b49ca7b351e6cba2c94260943c8
+  AcquiredHppSDK: b2190757f463e16ff08936e29b748bb806e2a258
 
 PODFILE CHECKSUM: f6a86e0a094a71ab4e6f3ef8be744416805bdb91
 
