@@ -21,6 +21,13 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'AcquiredHppSDK'
 ```
+Or
+```
+target 'AcquiredSample' do
+	pod 'AcquiredHppSDK', :git => 'https://github.com/lxp916/AcquiredHppSDK.git', :tag =>'1.1.2'
+end
+//AcquiredSample is your original xcode peoject name
+```
 ## Using the HPP Library
 
 ### Initiation 
