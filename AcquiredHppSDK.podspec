@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AcquiredHppSDK'
-  s.version          = '1.1.1'
+  s.version          = '1.1.2'
   s.summary          = 'Acquired Hpp SDK.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                        This is acquired hpp sdk.
                        DESC
 
   s.homepage         = 'https://github.com/lxp916/AcquiredHppSDK'
