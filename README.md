@@ -29,6 +29,11 @@ Or
 ```ruby
 pod 'AcquiredHppSDK'
 ```
+
+Make sure add this in your Podfile if you are using Swift
+```
+use_frameworks!
+```
 ## Using the HPP Library
 
 ### Initiation 
